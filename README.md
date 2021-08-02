@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @23ayushi
 - 👀 I’m interested in Ml and AI
-- 🌱 I’m currently learning Making My ML concepts Strong
+- 🌱 I’m currently Making My ML concepts Strong
 - 💞️ I’m looking to collaborate on any project related to ML and AI
 - 📫 contact me on my mail dtripathi740@gmail.com
 
